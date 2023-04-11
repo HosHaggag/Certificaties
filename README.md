@@ -5,7 +5,7 @@
 
 
 ### AWS Certified Cloud Practitioner
-![AWS Certified Cloud Practitioner](https://github.com/hoshos231/Certificaties/blob/main/Screenshot 2023-04-03 223318.jpg)
+![AWS Certified Cloud Practitioner](https://github.com/hoshos231/Certificaties/blob/main/AWS_certificate.png)
 
 
 
