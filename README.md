@@ -10,10 +10,6 @@
 
 
 
-### Android native from corsera
-
-![Android native from corsera](https://github.com/hoshos231/Certificaties/blob/main/Coursera%20MZBS5QZW3TEX_pages-to-jpg-0001.jpg)
-
 
 
 ### Flutter Development Diploma From The App Brewery
