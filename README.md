@@ -25,7 +25,7 @@
 
 ### Android native Diploma From Faculty of Engineering Mansoura University
 
-![Android native Diploma From Faculty of Engineering Mansoura University](https://github.com/hoshos231/Certificaties/blob/main/Screenshot_2.png)
+![Android native Diploma From Faculty of Engineering Mansoura University](https://github.com/hoshos231/Certificaties/blob/main/Android_native_cert.png)
 
 
 
