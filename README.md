@@ -10,7 +10,8 @@
 
 
 
-
+### CCNA Diploma from NTI
+![CCNA Diploma from NTI](https://github.com/hoshos231/Certificaties/blob/main/CCNA.png)
 
 ### Flutter Development Diploma From The App Brewery
 
