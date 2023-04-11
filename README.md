@@ -3,6 +3,13 @@
 ## Technical Certificaties:
 
 
+
+### AWS Certified Cloud Practitioner
+![AWS Certified Cloud Practitioner](https://github.com/hoshos231/Certificaties/blob/main/Screenshot 2023-04-03 223318.jpg)
+
+
+
+
 ### Android native from corsera
 
 ![Android native from corsera](https://github.com/hoshos231/Certificaties/blob/main/Coursera%20MZBS5QZW3TEX_pages-to-jpg-0001.jpg)
